@@ -19,6 +19,20 @@
 
 ---
 
+## About this project
+
+Team project developed during Le Wagon bootcamp.
+
+## My contributions
+
+- Front-end integration and UI improvements
+- Development of results pages and city cards
+- Work on the multi-step search flow
+- Map integration and display improvements
+- Search filters and city ranking features
+- Rails debugging and feature fixes
+- Git/GitHub collaboration and pull requests
+
 ## Stack technique
 
 | Couche | Technologie |
